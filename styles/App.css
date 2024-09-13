@@ -1,0 +1,28 @@
+.app {
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.navigation {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background: #f1f1f1;
+  padding: 10px;
+}
+
+.job-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.job-detail {
+  padding: 20px;
+}
